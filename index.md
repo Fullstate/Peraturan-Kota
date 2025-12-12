@@ -237,6 +237,8 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 
 ## BAB 4 - Zona Kota
 
+![Peta Zona Kota](Peta_Zona_FS.png)
+
 ### 4.1 Green Zone *(Sanksi Ringan 🟧)*
 *Area aman mutlak. Dilarang melakukan kriminal, provokasi, atau membawa senjata terbuka.*
 
