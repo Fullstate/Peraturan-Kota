@@ -268,7 +268,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 ### 5.1 Penyanderaan 🟥 *(Sanksi Sedang)*
 * **Syarat:** Minimal ada **3 Polisi** & **2 EMS** aktif di kota.
 * **Rasio:** Jumlah penyandera = Jumlah Polisi (3 Polisi = 3 Fraksi).
-* **Cooldown:** 6 Jam (Cek channel status).
+* **Cooldown:** 6 Jam ([#status-penyanderaan](https://discordapp.com/channels/908227192817877012/1398958955685740636)).
 * **High Profile:** Menyandera pejabat (Senator, Walikota, Kapolri) butuh izin Admin + Min. 6 Polisi & 3 EMS.
 * **Tebusan:** Maksimal Rp 500.000.000 (Total).
 * **Lokasi:** Dilarang melakukan penyanderaan di lokasi tidak realistis seperti base fraksi sendiri
