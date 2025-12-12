@@ -367,7 +367,7 @@ Perang terjadi atas persetujuan petinggi. Minimal 3 anggota kepolisian dan 2 ang
 * Dilarang menyembunyikan RMT dibalik aksi fraksi *(Sanksi Ringan)*.
 
 ### 5.5 Rules Robbery
-**Rekomendasi senjata:**
+**Regulasi senjata:**
 * **Kelas 1**: untuk RP perampokan kecil/mini market.
 * **Kelas 2**: diperbolehkan untuk eksekutor (untuk perampokan besar: bank, brankas besar).
 * **Kelas 3**: hanya untuk skenario besar yang sudah disetujui admin (heist besar, event).
