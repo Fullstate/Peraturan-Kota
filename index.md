@@ -4,7 +4,6 @@ layout: default
 ---
 
 # 📜 Peraturan Kota Fullstate
-*Draft Peraturan Resmi Server Roleplay Fullstate*
 
 ---
 
