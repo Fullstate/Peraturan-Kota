@@ -6,8 +6,6 @@ image: logo.png
 
 # 📜 Peraturan Kota Fullstate
 
----
-
 ## Daftar Isi
 1. [BAB 1 - Peraturan Umum](#bab-1---peraturan-umum)
 2. [BAB 2 - Norma Sosial & Interaksi](#bab-2---norma-sosial--interaksi)
