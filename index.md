@@ -63,25 +63,31 @@ Game roleplay adalah jenis permainan dimana pemain berperan sebagai karakter dal
 > 🟨 **Warning** | 🟧 **Sanksi Ringan** | 🟥 **Sanksi Sedang** | 🟫 **Sanksi Berat/Deportasi**
 
 * 🟧 **Mixing** *(Sanksi Ringan)*
+  
   Melakukan RP dengan menggunakan informasi dari OOC atau melakukan pembahasan OOC di RP.
   > *Contoh: Memanggil nama asli pemain (nama OOC) ketika bermain di dalam kota.*
 
 * 🟥 **Kill on Sight (KOS)** *(Sanksi Sedang)*
+  
   Menembaki warga dengan target atau tiba-tiba hingga pingsan dengan alasan yang tidak jelas, dilakukan hanya untuk kesenangan pribadi tanpa interaksi.
 
 * 🟥 **Power Gaming** *(Sanksi Sedang)*
+  
   Melakukan tindakan yang tidak masuk akal atau tidak realistis di dunia nyata. RP harus wajar sesuai logika manusia.
   > *Contoh: Menembak atau berbicara normal ketika kondisi pingsan (down).*
 
 * 🟨 **Non Fear RP** *(Warning)*
+  
   Kondisi dimana karakter tidak menunjukan rasa takut ketika ada di posisi yang mengancam nyawa.
   > *Contoh: Tidak takut/melawan ketika ditodong senjata api.*
 
 * 🟧 **Force RP** *(Sanksi Ringan)*
+  
   Memaksa kehendak roleplay kepada orang lain tanpa persetujuan lawan RP.
   > *Contoh: Memaksa RP ketika lawan sedang AFK/melamun.*
 
 * 🟨 **NON BEHAVIOR RP** *(Warning)*
+  
   Kondisi dimana karakter tidak memiliki tingkah laku yang wajar.
   > *Contoh: Menggendong orang sambil menyetir motor, Menguping dari balik tembok tebal, Polisi menembaki warga tanpa alasan.*
 
@@ -93,44 +99,55 @@ Game roleplay adalah jenis permainan dimana pemain berperan sebagai karakter dal
   * **New Life Rule (NLR):** Karakter baru harus lupa ingatan tentang kematian karakter lama, tidak boleh kembali ke lokasi kematian, dan harus menjadi identitas baru total.
 
 * 🟥 **Bug Abuse** *(Sanksi Sedang)*
+  
   Memanfaatkan celah (glitch/bug) permainan untuk keuntungan pribadi tanpa melapor ke admin.
 
 * 🟥 **Over Competitive** *(Sanksi Sedang)*
+  
   Persaingan antar pemain yang melupakan alur RP dan hanya mementingkan "Menang vs Kalah".
   > *Contoh: Kelompok A kalah perang, lalu langsung menyerang balik Kelompok B tanpa jeda RP.*
 
 * 🟥 **Revenge Kill** *(Sanksi Sedang)*
-  * **Definisi:** Tindakan membuat karakter baru dengan tujuan khusus untuk membalas dendam terhadap karakter yang telah membunuh karakter kamu sebelumnya.
-  * **Contoh:** Membunuh karakter lain sebagai upaya pembalasan tanpa mempertimbangkan aspek roleplay yang masuk akal.
+  
+  Tindakan membuat karakter baru dengan tujuan khusus untuk membalas dendam terhadap karakter yang telah membunuh karakter kamu sebelumnya.
+  > *Contoh: Membunuh karakter lain sebagai upaya pembalasan tanpa mempertimbangkan aspek roleplay yang masuk akal.*
 
 * 🟨 **Evading RP** *(Warning)*
-  * **Definisi:** Keluar dari permainan atau menghindari situasi roleplay tanpa alasan yang jelas, atau tanpa memberikan penjelasan memadai.
-  * **Contoh:** Sengaja "keluar kota" (disconnect) ketika sedang dibegal atau saat posisi ditangkap polisi.
+  
+  Keluar dari permainan atau menghindari situasi roleplay tanpa alasan yang jelas, atau tanpa memberikan penjelasan memadai.
+  > *Contoh: Sengaja "keluar kota" (disconnect) ketika sedang dibegal atau saat posisi ditangkap polisi.*
 
 * 🟧 **RDM (Random Death Match)** *(Sanksi Ringan)*
-  * **Definisi:** Menembaki warga secara random atau tiba-tiba hingga pingsan dengan alasan yang tidak jelas.
-  * **Kriteria:** Dilakukan hanya untuk kesenangan pribadi, tanpa didahului interaksi roleplay yang jelas, dan dapat menimbulkan konflik non-RP.
+  
+  Menembaki warga secara random atau tiba-tiba hingga pingsan dengan alasan yang tidak jelas. Dilakukan hanya untuk kesenangan pribadi, tanpa didahului interaksi roleplay yang jelas.
 
 * 🟫 **RMT (Real Money Trading)** *(Sanksi Berat)*
+  
   Dilarang keras melakukan praktik jual beli barang, uang, atau aset dalam game menggunakan uang sungguhan (Rupiah).
 
 * 🟫 **Pelecehan Seksual** *(Warning dan Deportasi)*
+  
   Tindakan pelecehan seksual, verbal, atau intimidasi yang membuat pemain tidak nyaman (baik di Discord maupun IC) adalah terlarang. **Tidak ada alasan "hanya bercanda".**
 
 * 🟧 **No Evac Roleplay** *(Sanksi Ringan)*
+  
   Melakukan evakuasi teman yang *down* saat situasi perang/konflik masih aktif. Evakuasi hanya boleh dilakukan jika area sudah aman atau oleh EMS sesuai prosedur.
 
 * 🟨 **Larangan Cross-Gender Roleplay** *(Warning)*
+  
   Pemain wajib menggunakan karakter dengan gender yang sama dengan gender asli pemain.
 
 * 🟧 **Flaming & Taunting** *(Sanksi Ringan)*
+  
   Dilarang menggunakan kata-kata provokatif berlebihan atau tindakan toxic.
   > *Contoh: Menghina atau menembak mayat pemain yang sudah pingsan.*
 
 * 🟥 **Oplas Tanpa Prosedur** *(Sanksi Sedang)*
+  
   Mengganti wajah/identitas untuk menghindari konsekuensi hukum atau sosial tanpa prosedur EMS dan alur cerita yang jelas.
 
 * 🟫 **Alting** *(Sanksi Berat - Deportasi)*
+  
   Membuat karakter atau akun baru semata-mata untuk mendapat keuntungan curang.
 
 ### 1.3 Sanksi Administratif
@@ -147,18 +164,23 @@ Game roleplay adalah jenis permainan dimana pemain berperan sebagai karakter dal
 ### 2.1 Etika Berperilaku
 
 * 🟨 **Respect dan Attitude**
+  
   Pemain wajib menghormati sesama pemain dan Admin. Jaga sopan santun baik IC maupun OOC.
 
 * 🟥 **Interaksi dengan Admin**
+  
   Wajib kooperatif saat diinvestigasi. Dilarang memalsukan bukti atau laporan. Keputusan admin bersifat mutlak.
 
 * 🟨 **No Drama**
+  
   Dilarang membawa masalah pribadi atau drama ke dalam kota maupun Discord umum.
 
 * 🟥 **NSFW Content**
+  
   Dilarang membagikan konten 18+ atau membahas topik seksual eksplisit.
 
 * 🟫 **Doxing**
+  
   Menyebarkan informasi pribadi (nama asli, alamat, foto, dll) pemain lain tanpa izin adalah pelanggaran berat.
 
 ### 2.2 Perlindungan Warga Baru (SKWB)
