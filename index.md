@@ -1,6 +1,7 @@
 ---
 title: Peraturan Kota Fullstate
 layout: default
+image: logo.png
 ---
 
 # 📜 Peraturan Kota Fullstate
