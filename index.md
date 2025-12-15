@@ -70,6 +70,20 @@ Game roleplay adalah jenis permainan dimana pemain berperan sebagai karakter dal
   Melakukan RP dengan menggunakan informasi dari OOC atau melakukan pembahasan OOC di RP.
   > *Contoh: Memanggil nama OOC (nama asli pemain) ketika bermain di dalam kota.*
 
+* 🟧 **Metagaming** *(Sanksi Ringan)*
+  
+  Menggunakan informasi yang didapat dari luar game (OOC) untuk memengaruhi keputusan atau tindakan In-Character (IC).
+  > *Contoh: Mengetahui lokasi karakter lain dari Discord atau lainnya tanpa alasan IC, lalu menggunakannya untuk menyerang atau menghindari mereka.*
+
+* 🟥 **Misuse/Abuse of Power** *(Sanksi Sedang)*
+  
+  Penyalahgunaan jabatan, otoritas, akses, atau privilege (baik In-Character maupun Out-of-Character) untuk mendapatkan keuntungan, mengontrol tindakan pemain lain, atau memaksa alur cerita di luar logika dan aturan roleplay.
+  > *Contoh: Anggota kepolisian memberikan senjata dinas kepada pihak non-polisi tanpa prosedur RP yang sah; Pemain menggunakan kewenangannya untuk menekan, mengancam, atau menghukum pemain lain tanpa dasar RP yang jelas.*
+
+* 🟨 **Identify** *(Warning)*
+  
+  Saat player A mengenali player B tanpa berkenalan maka roleplay tersebut dianggap tidak sah / gagal.
+
 * 🟥 **Kill on Sight (KOS)** *(Sanksi Sedang)*
   
   Menembaki warga dengan target atau tiba-tiba hingga pingsan dengan alasan yang tidak jelas, dilakukan hanya untuk kesenangan pribadi tanpa interaksi.
@@ -240,7 +254,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 ![Peta Zona Kota](Peta_Zona_FS.png)
 *(Gambar: Peta Pembagian Zona Kota Fullstate)*
 
-### 4.1 Green Zone *(Sanksi Ringan 🟧)*
+### 4.1 Green Zone *(Sanksi Sedang 🟥)*
 *Area aman mutlak. Dilarang melakukan kriminal, provokasi, atau membawa senjata terbuka.*
 
 * **Lokasi:** RS, Bandara (Spawn), Kantor Polisi, Kantor Gov, Silverduck, Area Kerja Legal (Tambang/Pemancingan).
