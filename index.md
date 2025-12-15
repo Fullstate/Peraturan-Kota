@@ -243,7 +243,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 **Kepemilikan:** Warga sipil (dengan lisensi), Fraksi, dan Instansi (Polisi/Gov).
 
 * **Kelas 1 (Ringan):** Golok, Baton, USP, Glock17/22, Taser (X26).
-* **Kelas 2 (Menengah):** Revolver, MPX, MP5, MP7A1, MCX.
+* **Kelas 2 (Menengah):** Revolver, MPX, MP5, MP7A1, MCX, TEC-9.
 * **Kelas 3 (Berat):** AK47, M4 series, Shotgun (M870), Sniper (R700, Barret), Molotov.
   > *Catatan: Senjata Kelas 3 hanya digunakan atas persetujuan khusus/event.*
 
