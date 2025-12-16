@@ -286,7 +286,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 * **Syarat:** Minimal ada **3 Polisi** & **2 EMS** aktif di kota.
 * **Rasio:** Jumlah penyandera = Jumlah Polisi (Misal: 3 vs 3).
 * **Cooldown:** 6 Jam (Cek channel status).
-* **High Profile:** Menyandera pejabat (Gubernur/Kapolres) butuh izin Admin + Min. 6 Polisi & 3 EMS.
+* **High Profile:** Menyandera pejabat (Walikota/Kapolri) butuh izin Admin + Min. 6 Polisi & 3 EMS.
 * **Tebusan:** Maksimal Rp 500.000.000 (Total).
 * **Lokasi:** Dilarang melakukan penyanderaan di lokasi tidak realistis seperti base fraksi sendiri.
 * **Larangan:** Tidak boleh minta tebusan senjata. Sandera harus diperlakukan manusiawi.
@@ -316,7 +316,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 
 ### 5.4 Aturan Fraksi 🟨 *(Warning/Sanksi Ringan)*
 * Ketua minimal 17 tahun (OOC). Anggota Max 15 orang.
-* Base fraksi area privat.
+* Base fraksi area privat. Fraksi memiliki kuasa tertinggi pada base masing-masing.
 * Dilarang menyembunyikan RMT dibalik aktivitas fraksi 🟧 *(Sanksi Ringan)*.
 
 ### 5.5 Rules Robbery
