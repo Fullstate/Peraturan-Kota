@@ -78,7 +78,15 @@ Game roleplay adalah jenis permainan dimana pemain berperan sebagai karakter dal
 * 🟥 **Misuse/Abuse of Power** *(Sanksi Sedang)*
   
   Penyalahgunaan jabatan, otoritas, akses, atau privilege (baik In-Character maupun Out-of-Character) untuk mendapatkan keuntungan, mengontrol tindakan pemain lain, atau memaksa alur cerita di luar logika dan aturan roleplay.
-  > *Contoh: Anggota kepolisian memberikan senjata dinas kepada pihak non-polisi tanpa prosedur RP yang sah; Pemain menggunakan kewenangannya untuk menekan, mengancam, atau menghukum pemain lain tanpa dasar RP yang jelas.*
+  > *Contoh: Pemain menggunakan kewenangannya untuk menekan, mengancam, atau menghukum pemain lain tanpa dasar RP yang jelas.*
+
+* 🟥 **Impersonating Whitelist Job** *(Sanksi Sedang)*
+  
+  Warga sipil atau badside dilarang keras menggunakan seragam, atribut, rompi, atau kendaraan yang identik dengan instansi resmi (Polisi, EMS, Government) untuk melakukan tindakan kriminal, menipu, atau membingungkan pemain lain.
+
+* 🟫 **Bad Cop / Corrupt Gov** *(Sanksi Berat)*
+  
+  Anggota instansi dilarang menjual senjata dinas, informasi rahasia, atau bekerja sama dengan kriminal kecuali sudah memiliki **Bio Bad Cop** yang disetujui oleh Admin.
 
 * 🟨 **Identify** *(Warning)*
   
@@ -107,6 +115,11 @@ Game roleplay adalah jenis permainan dimana pemain berperan sebagai karakter dal
   
   Kondisi dimana karakter tidak memiliki tingkah laku yang wajar.
   > *Contoh: Menggendong orang sambil menyetir motor, Menguping dari balik tembok tebal, Polisi menembaki warga tanpa alasan.*
+
+* 🟨 **Non-RP Driving** *(Warning)*
+  
+  Mengendarai kendaraan dengan cara yang tidak masuk akal secara fisika atau logika.
+  > *Contoh: Sedan sport dipakai naik gunung terjal (offroad), melompat dari tebing tinggi lalu lanjut jalan.*
 
 * 🟧 **CK (Character Kill)** *(Sanksi Ringan)*
   * CK hanya boleh dilakukan jika ada alasan IC yang kuat atau persetujuan OOC.
@@ -186,6 +199,11 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 * 🟨 **Respect dan Attitude** *(Warning)*
   
   Pemain wajib menghormati sesama pemain dan Admin. Jaga sopan santun baik IC maupun OOC.
+
+* 🟨 **Cop Baiting** *(Warning)*
+  
+  Sengaja memancing aparat kepolisian untuk melakukan pengejaran atau tembak-menembak tanpa alasan roleplay yang jelas.
+  > *Contoh: Sengaja drifting di depan kantor polisi atau menabrak mobil polisi yang diam agar dikejar.*
 
 * 🟥 **Interaksi dengan Admin** *(Sanksi Sedang)*
   
@@ -289,7 +307,10 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 * **High Profile:** Menyandera pejabat (Walikota/Kapolri) butuh izin Admin + Min. 6 Polisi & 3 EMS.
 * **Tebusan:** Maksimal Rp 500.000.000 (Total).
 * **Lokasi:** Dilarang melakukan penyanderaan di lokasi tidak realistis seperti base fraksi sendiri.
-* **Larangan:** Tidak boleh minta tebusan senjata. Sandera harus diperlakukan manusiawi.
+* **Larangan:**
+  * Tidak boleh minta tebusan senjata.
+  * Sandera harus diperlakukan manusiawi.
+  * **Fake Hostage (Sanksi Berat):** Dilarang menggunakan teman sendiri atau sesama anggota kelompok sebagai "sandera pura-pura" demi keuntungan.
 
 ### 5.2 Pembegalan 🟧 *(Sanksi Ringan)*
 * **Syarat:** Minimal **2 Polisi** & **1 EMS** aktif.
@@ -314,6 +335,10 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 * Jika 10 menit tidak ada tembakan = Clear Area.
 * **Senjata Polisi:** Default Kelas 2. Kelas 3 (Sniper/SWAT) hanya untuk High Risk.
 
+**Aturan Tambahan Konflik:**
+* **Camping RS/Spawn:** Dilarang menunggu di area RS atau spawn untuk kembali menyerang pemain yang baru sadar/hidup kembali.
+* **Third Party (Sanksi Ringan):** Pihak ketiga yang tidak berkepentingan dilarang ikut campur dalam situasi roleplay perang yang sedang berlangsung.
+
 ### 5.4 Aturan Fraksi 🟨 *(Warning/Sanksi Ringan)*
 * Ketua minimal 17 tahun (OOC). Anggota Max 15 orang.
 * Base fraksi area privat. Fraksi memiliki kuasa tertinggi pada base masing-masing.
@@ -335,3 +360,6 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 ### 5.7 Penyamaran & Intimidasi 🟧 *(Sanksi Ringan)*
 * Diperbolehkan menarik "uang keamanan", ancam bisnis, intimidasi saksi.
 * Gunakan senjata Kelas 1 (Pistol/Sajam) untuk intimidasi. Kelas 2 hanya jika eskalasi berat.
+
+### 5.8 Aturan Kendaraan 🟥 *(Sanksi Sedang)*
+* **Stealing Emergency Vehicle:** Mencuri kendaraan dinas (Mobil Polisi/Ambulans) tanpa alasan RP yang sangat mendesak (hidup dan mati) adalah dilarang.
