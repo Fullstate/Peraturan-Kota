@@ -84,6 +84,10 @@ Game roleplay adalah jenis permainan dimana pemain berperan sebagai karakter dal
   
   Warga sipil atau badside dilarang keras menggunakan seragam, atribut, rompi, atau kendaraan yang identik dengan instansi resmi (Polisi, EMS, Government) untuk melakukan tindakan kriminal, menipu, atau membingungkan pemain lain.
 
+* 🟫 **Looting Whitelist** *(Sanksi Berat)*
+  * **Polisi & Government:** Dilarang mengambil barang milik instansi ketika *down*, **KECUALI** dalam kondisi **Perang** atau **Heist Besar** (Diperbolehkan mengambil Senjata, Cash, Makanan, Perban).
+  * **EMS:** Dilarang keras melakukan looting terhadap EMS dalam kondisi dan situasi apapun (**Mutlak**).
+
 * 🟫 **Bad Cop / Corrupt Gov** *(Sanksi Berat)*
   
   Anggota instansi dilarang menjual senjata dinas, informasi rahasia, atau bekerja sama dengan kriminal kecuali sudah memiliki **Bio Bad Cop** yang disetujui oleh Admin.
