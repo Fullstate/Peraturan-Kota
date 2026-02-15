@@ -10,9 +10,10 @@ layout: default
 ## Daftar Isi
 1. [BAB 1 - Peraturan Umum](#bab-1---peraturan-umum)
 2. [BAB 2 - Norma Sosial & Interaksi](#bab-2---norma-sosial--interaksi)
-3. [BAB 3 - Ketentuan Fraksi & Pekerjaan](#bab-3---ketentuan-fraksi--pekerjaan)
-4. [BAB 4 - Zona Kota](#bab-4---zona-kota)
-5. [BAB 5 - Peraturan Bad Side](#bab-5---peraturan-bad-side)
+3. [BAB 3 - Ketentuan & Wewenang Admin](#bab-3---ketentuan--wewenang-admin)
+4. [BAB 4 - Ketentuan Fraksi & Pekerjaan](#bab-4---ketentuan-fraksi--pekerjaan)
+5. [BAB 5 - Zona Kota](#bab-5---zona-kota)
+6. [BAB 6 - Peraturan Bad Side](#bab-6---peraturan-bad-side)
 
 ---
 
@@ -238,9 +239,33 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 
 ---
 
-## BAB 3 - Ketentuan Fraksi & Pekerjaan
+## BAB 3 - Ketentuan & Wewenang Admin
 
-### 3.1 List Pekerjaan
+* 🟥 **Wewenang & Keputusan Final** *(Sanksi Sedang)*
+  Admin bertugas menjaga stabilitas server, kelancaran roleplay, dan menegakkan peraturan kota. Keputusan yang diambil oleh Admin (setelah melalui proses investigasi/review) adalah **MUTLAK dan FINAL**. Dilarang keras menentang, menantang, atau mengabaikan instruksi langsung dari Admin.
+
+* 🟥 **Respect Kepada Admin & Attitude** *(Sanksi Sedang)*
+  Seluruh pemain wajib menjunjung tinggi rasa hormat (*respect*) dan menjaga tata krama (*attitude*) yang baik saat berinteraksi dengan Admin, baik di dalam kota (In-Game) maupun di luar kota (Discord/OOC). Berperilaku toxic, merendahkan, menyindir kasar, atau menghina Admin akan ditindak tegas tanpa kompromi.
+
+* 🟥 **Dilarang Berdebat (No Debat In-Game)** *(Sanksi Sedang)*
+  Apabila Admin sedang menengahi suatu masalah atau memberikan sanksi secara langsung di dalam game, pemain **wajib mendengarkan dan patuh**. Dilarang keras berdebat panjang (debat kusir), ngeyel, memotong pembicaraan, atau adu argumen menggunakan Voice/Chat OOC di In-Game. Selesaikan dengan kepala dingin.
+
+* 🟨 **Pause RP (Jeda Roleplay)** *(Warning / Sanksi Ringan)*
+  Jika Admin mendatangi sebuah *scene* (situasi RP yang sedang aktif, seperti perang, begal, atau kejar-kejaran) dan menginstruksikan untuk **"Pause RP"**, maka seluruh tindakan karakter (menembak, berlari, looting, dll) **WAJIB dihentikan seketika**. Dilarang memanfaatkan momen *Pause RP* ini untuk kabur, mengatur posisi ulang, atau mencari keuntungan sepihak.
+
+* 📋 **Prosedur Banding & Penggunaan Ticket** *(Wajib)*
+  Jika pemain merasa dirugikan, tidak setuju dengan keputusan/sanksi, atau ingin melaporkan *Fail RP* pemain lain, pemain **tidak diizinkan** melakukan protes di In-Game atau di publik chat Discord.
+  * Pemain **wajib** menggunakan sistem **Ticket** di Discord untuk melakukan pelaporan atau banding (*Appeal*).
+  * Laporan/Banding **WAJIB** menyertakan bukti yang valid dan jelas (berupa rekaman video/vlog yang utuh). Protes atau laporan tanpa bukti konkret (hanya sebatas teks/cerita) tidak akan diproses oleh Admin.
+
+* 🟫 **Larangan Spam & Harassment** *(Sanksi Berat - Deportasi)*
+  Dilarang keras melakukan spam chat, mengancam, memprovokasi, atau meneror (*harassment*) Admin melalui Direct Message (DM) pribadi terkait urusan kota, sanksi, atau permintaan *fast respond*. Semua keluhan, laporan, dan protes harus disalurkan secara terpusat dan profesional melalui jalur resmi (Ticket Discord). Tindakan teror/harassment kepada Admin memiliki toleransi nol (*Zero Tolerance*).
+
+---
+
+## BAB 4 - Ketentuan Fraksi & Pekerjaan
+
+### 4.1 List Pekerjaan
 
 | Kategori | Daftar Pekerjaan |
 | :--- | :--- |
@@ -249,7 +274,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 | **Bisnis / Legal** | Jakcloth, Paradise Pool, M Cafe, MCC, Corazen, Fnet |
 | **Bad Side** | THT, BV, DWF |
 
-### 3.2 Aturan Side Job
+### 4.2 Aturan Side Job
 
 * 🟧 **Dual Side Job** *(Sanksi Ringan)*
   * Diperbolehkan: Bad Side + Non-Whitelist (Kecuali Mekanik & FNET).
@@ -260,7 +285,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
   * **Whitelist ke Bad Side:** Wajib tunggu 2 minggu setelah resign.
   * **Bad Side ke Whitelist:** Wajib tunggu 2 minggu setelah keluar ormas.
 
-### 3.3 Kategori Senjata
+### 4.3 Kategori Senjata
 
 **Kepemilikan:** Warga sipil (dengan lisensi), Fraksi, dan Instansi (Polisi/Gov).
 
@@ -271,18 +296,18 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 
 ---
 
-## BAB 4 - Zona Kota
+## BAB 5 - Zona Kota
 
 ![Peta Zona Kota](Peta_Zona_FS.png)
 *(Gambar: Peta Pembagian Zona Kota Fullstate)*
 
-### 4.1 Green Zone *(Sanksi Sedang 🟥)*
+### 5.1 Green Zone *(Sanksi Sedang 🟥)*
 *Area aman mutlak. Dilarang melakukan kriminal, provokasi, atau membawa senjata terbuka.*
 
 * **Lokasi:** RS, Bandara (Spawn), Kantor Polisi, Kantor Gov, Silverduck, Area Kerja Legal (Tambang/Pemancingan).
 * **Aturan:** Dilarang lari ke Green Zone saat dikejar (RP Pursuit) untuk berlindung.
 
-### 4.2 Yellow Zone
+### 5.2 Yellow Zone
 *Wilayah sipil dengan keamanan tinggi. Polisi memiliki otoritas penuh.*
 
 * **Lokasi:** Jakarta Selatan hingga Jakarta Pusat.
@@ -291,7 +316,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
   * Konflik harus memiliki eskalasi cerita yang jelas.
   * Provokasi verbal diperbolehkan dalam batas wajar.
 
-### 4.3 Red Zone
+### 5.3 Red Zone
 *Wilayah risiko tinggi. Kriminalitas legal secara RP.*
 
 * **Lokasi:** Daerah BSD (Kecuali area kerja legal) & Base Badside.
@@ -302,9 +327,9 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 
 ---
 
-## BAB 5 - Peraturan Bad Side
+## BAB 6 - Peraturan Bad Side
 
-### 5.1 Penyanderaan 🟥 *(Sanksi Sedang)*
+### 6.1 Penyanderaan 🟥 *(Sanksi Sedang)*
 * **Syarat:** Minimal ada **3 Polisi** & **2 EMS** aktif di kota.
 * **Rasio:** Jumlah penyandera = Jumlah Polisi (Misal: 3 vs 3).
 * **Cooldown:** 6 Jam (Cek channel status).
@@ -316,7 +341,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
   * Sandera harus diperlakukan manusiawi.
   * **Fake Hostage (Sanksi Berat):** Dilarang menggunakan teman sendiri atau sesama anggota kelompok sebagai "sandera pura-pura" demi keuntungan.
 
-### 5.2 Pembegalan 🟧 *(Sanksi Ringan)*
+### 6.2 Pembegalan 🟧 *(Sanksi Ringan)*
 * **Syarat:** Minimal **2 Polisi** & **1 EMS** aktif.
 * **Looting Maksimal:**
   * Uang Cash: Rp 10.000.000 /orang.
@@ -326,7 +351,7 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
   * Dilarang membegal Gov/EMS on duty.
   * Cooldown 20 menit per aksi.
 
-### 5.3 Konflik & Peperangan 🟥 *(Sanksi Sedang)*
+### 6.3 Konflik & Peperangan 🟥 *(Sanksi Sedang)*
 
 **Perang Antar Fraksi:**
 * Dilakukan di Yellow/Red Zone.
@@ -343,17 +368,17 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 * **Camping RS/Spawn:** Dilarang menunggu di area RS atau spawn untuk kembali menyerang pemain yang baru sadar/hidup kembali.
 * **Third Party (Sanksi Ringan):** Pihak ketiga yang tidak berkepentingan dilarang ikut campur dalam situasi roleplay perang yang sedang berlangsung.
 
-### 5.4 Aturan Fraksi 🟨 *(Warning/Sanksi Ringan)*
+### 6.4 Aturan Fraksi 🟨 *(Warning/Sanksi Ringan)*
 * Ketua minimal 17 tahun (OOC). Anggota Max 15 orang.
 * Base fraksi area privat. Fraksi memiliki kuasa tertinggi pada base masing-masing.
 * Dilarang menyembunyikan RMT dibalik aktivitas fraksi 🟧 *(Sanksi Ringan)*.
 
-### 5.5 Rules Robbery
+### 6.5 Rules Robbery
 * **Kelas 1:** Untuk RP perampokan kecil/mini market.
 * **Kelas 2:** Diperbolehkan untuk eksekutor (bank, brankas besar).
 * **Kelas 3:** Hanya untuk skenario besar yang sudah disetujui admin.
 
-### 5.6 Aturan Ladang 🟨 *(Warning)*
+### 6.6 Aturan Ladang 🟨 *(Warning)*
 * **Waktu Diperbolehkan:** Pukul 19.00 - 23.00 WIB (Waktu Internasional).
 * Diperbolehkan meladang tanpa polisi dan ems.
 * Senjata: Kelas 1, boleh naik ke Kelas 2.
@@ -361,9 +386,9 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 * Ladang diperuntukan untuk seluruh fraksi.
 * Polisi wajib menyalakan sirine ketika memasuki BSD.
 
-### 5.7 Penyamaran & Intimidasi 🟧 *(Sanksi Ringan)*
+### 6.7 Penyamaran & Intimidasi 🟧 *(Sanksi Ringan)*
 * Diperbolehkan menarik "uang keamanan", ancam bisnis, intimidasi saksi.
 * Gunakan senjata Kelas 1 (Pistol/Sajam) untuk intimidasi. Kelas 2 hanya jika eskalasi berat.
 
-### 5.8 Aturan Kendaraan 🟥 *(Sanksi Sedang)*
-* **Stealing Emergency Vehicle:** Mencuri kendaraan dinas (Mobil Polisi/Ambulans) tanpa alasan RP yang sangat mendesak (hidup dan mati) adalah dilarang.
+### 6.8 Aturan Kendaraan 🟥 *(Sanksi Sedang)*
+* **Stealing Emergency Vehicle:** Mencuri kendaraan dinas (Mobil Polisi/Ambulans) tanpa alasan RP yang sangat mendesak adalah dilarang.
