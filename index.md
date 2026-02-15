@@ -242,23 +242,29 @@ Jam kotor dimulai setelah pukul 00.00 WIB dan jumlah warga kota dibawah 5. Prose
 ## BAB 3 - Ketentuan & Wewenang Admin
 
 * 🟥 **Wewenang & Keputusan Final** *(Sanksi Sedang)*
+
 Admin bertugas menjaga stabilitas server, kelancaran roleplay, dan menegakkan peraturan kota. Keputusan yang diambil oleh Admin adalah **MUTLAK dan FINAL**. Dilarang keras menentang, menantang, atau mengabaikan instruksi langsung dari Admin.
 
 * 🟥 **Respect Kepada Admin & Attitude** *(Sanksi Sedang)*
+
 Seluruh pemain wajib menjunjung tinggi rasa hormat (*respect*) dan menjaga tata krama (*attitude*) yang baik saat berinteraksi dengan Admin, baik di dalam kota (In-Game) maupun di luar kota (Discord/OOC). Berperilaku toxic, merendahkan, menyindir kasar, atau menghina Admin akan ditindak tegas tanpa kompromi.
 
 * 🟥 **Dilarang Berdebat (No Debat In-Game)** *(Sanksi Sedang)*
+
 Apabila Admin sedang menengahi suatu masalah atau memberikan sanksi secara langsung di dalam game, pemain **wajib mendengarkan dan patuh**. Dilarang keras berdebat panjang (debat kusir), ngeyel, memotong pembicaraan, atau adu argumen menggunakan Voice/Chat OOC di In-Game. Selesaikan dengan kepala dingin.
 
 * 🟨 **Pause RP (Jeda Roleplay)** *(Warning / Sanksi Ringan)*
- Jika Admin mendatangi sebuah *scene* (situasi RP yang sedang aktif, seperti perang, begal, atau kejar-kejaran) dan menginstruksikan untuk **"Pause RP"**, maka seluruh tindakan karakter (menembak, berlari, looting, dll) **WAJIB dihentikan seketika**. Dilarang memanfaatkan momen *Pause RP* ini untuk kabur, mengatur posisi ulang, atau mencari keuntungan sepihak.
+
+Jika Admin mendatangi sebuah *scene* (situasi RP yang sedang aktif, seperti perang, begal, atau kejar-kejaran) dan menginstruksikan untuk **"Pause RP"**, maka seluruh tindakan karakter (menembak, berlari, looting, dll) **WAJIB dihentikan seketika**. Dilarang memanfaatkan momen *Pause RP* ini untuk kabur, mengatur posisi ulang, atau mencari keuntungan sepihak.
 
 * 📋 **Prosedur Banding & Penggunaan Ticket** *(Wajib)*
+
 Jika pemain merasa dirugikan, tidak setuju dengan keputusan/sanksi, atau ingin melaporkan *Fail RP* pemain lain, pemain **tidak diizinkan** melakukan protes di In-Game atau di publik chat Discord.
   * Pemain **wajib** menggunakan sistem **Ticket** di Discord untuk melakukan pelaporan atau banding (*Appeal*).
   * Laporan/Banding **WAJIB** menyertakan bukti yang valid dan jelas. Protes atau laporan tanpa bukti konkret tidak akan diproses oleh Admin.
 
 * 🟫 **Larangan Spam & Harassment** *(Sanksi Berat - Deportasi)*
+
 Dilarang keras melakukan spam chat, mengancam, memprovokasi, atau meneror (*harassment*) Admin melalui Direct Message (DM) pribadi terkait urusan kota, sanksi, atau permintaan *fast respond*. Semua keluhan, laporan, dan protes harus disalurkan secara terpusat dan profesional melalui jalur resmi (Ticket Discord). Tindakan teror/harassment kepada Admin memiliki toleransi nol (*Zero Tolerance*).
 
 ---
